@@ -4,4 +4,4 @@ Das Testen und Balancieren von Computerspielen ist ein wesentlicher Bestandteil 
 Als Folge dessen stellt die Arbeit einen Ansatz vor, wie Teile der Entscheidungsfindung für Charaktere in einem Spiel von einem Programm balanciert werden können. 
 Diesbezuglich wurde die Implementierung eines Genetischen Algorithmus vorgestellt, der die von der GOAP Architektur erzeugten Aktionssequenzen in unterschiedlichen Spielsituationen bewertet.
 
-Eine überarbeitete Version der Bachelorarbeit [a link](https://github.com/RobertEichner/BachelorProjekt/blob/main/Bachelorarbeit.pdf) kann hier nachgelesen werden.
+Diese Version der [Bachelorarbeit](https://github.com/RobertEichner/BachelorProjekt/blob/main/Bachelorarbeit.pdf) ist nachbearbeitet und entspricht somit nicht mehr dem Original.

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e1f31cda4372c84ab952e3ccb735d22, type: 3}
+  m_Name: BuyWood
+  m_EditorClassIdentifier: 
+  actionName: buyWood
+  actionCost: 4
+  pre:
+  - variable: {fileID: 11400000, guid: f86a4507d47082046b1c7190efc706d4, type: 2}
+    desiredValue: 1
+  eff:
+  - variable: {fileID: 11400000, guid: 8922dd6b6cbe11842b4f4fd674ca103d, type: 2}
+    desiredValue: 1

@@ -5,3 +5,5 @@ Als Folge dessen stellt die Arbeit einen Ansatz vor, wie Teile der Entscheidungs
 Diesbezuglich wurde die Implementierung eines Genetischen Algorithmus vorgestellt, der die von der GOAP Architektur erzeugten Aktionssequenzen in unterschiedlichen Spielsituationen bewertet.
 
 Diese Version der [Bachelorarbeit](https://github.com/RobertEichner/BachelorProjekt/blob/main/Bachelorarbeit.pdf) ist nachbearbeitet und entspricht somit nicht mehr dem Original.
+
+Der dazugehörige Code wurde mit Unity3D 2020.3.0f1 erstellt.
